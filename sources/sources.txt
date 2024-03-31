@@ -1,0 +1,15 @@
+/*!
+ * Hover.css (http://ianlunn.github.io/Hover/)
+ * Version: 2.3.2
+ * Author: Ian Lunn @IanLunn
+ * Author URL: http://ianlunn.co.uk/
+ * Github: https://github.com/IanLunn/Hover
+
+ * Hover.css Copyright Ian Lunn 2017. Generated with Sass.
+ */
+
+ Typewriter effect:
+ https://css-tricks.com/snippets/css/typewriter-effect/
+ Simon Shahriveri on CodePen
+ https://codepen.io/hi-im-si/pen/ALgzqo
+ https://codepen.io/hi-im-si
